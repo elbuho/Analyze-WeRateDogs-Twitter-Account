@@ -27,7 +27,7 @@ Step 6: Reporting
 * Data analyses and visualizations
 
 
-
+## Step 1: Gathering data
 ### The Data
 
 In this project, you will work on the following three datasets.
@@ -70,10 +70,10 @@ To meet specifications, the following issues must be assessed.
 -   The fact that the rating numerators are greater than the denominators does not need to be cleaned. This [unique rating system](http://knowyourmeme.com/memes/theyre-good-dogs-brent) is a big part of the popularity of WeRateDogs.
 -   We didn't need to gather the tweets beyond August 1st, 2017. 
 
-## Step3: Cleaning, Analyzing, and visualizing data
+## Step 3, 4 and 5: Cleaning, Analyzing, and visualizing data
 All the Cleaning, analyzing and visualization data process it can be follow in the notebook  wrangle_act.ipynb and we added a wrangle Report (wrangle_report.pdf) with all issues that we found in the data with the descriptión of qualyty and tidiness as weel all the steps to clean the data.
 
-## Step4: Reporting
+## Step 6: Reporting
 There is a report (act_report.pdf) as a summary with the most important characteristics that we found in the data.
 
 
